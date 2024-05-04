@@ -24,7 +24,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 
-#if defined(_MSC_VER)
+#if defined(_WIN32)
 #include <Windows.h>
 #endif
 
